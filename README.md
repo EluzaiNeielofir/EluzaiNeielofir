@@ -1,5 +1,4 @@
-# About_Me
-Hi 👋 My name is Eluzai Neielofir Angel
+Hi 👋 I'm a Junior Data Analyst
 =======================================
 
  Junior Data Analyst with a passion for leveraging Machine Learning to empower businesses with AI-driven insights and decisions.
