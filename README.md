@@ -1,9 +1,9 @@
 EluzaiNeielofir/README.md
 
-Hi 👋 I'm a Junior Data Analyst
+Hi 👋 I'm a Data Analyst
 =======================================
 
- Junior Data Analyst with a passion for leveraging Machine Learning to empower businesses with AI-driven insights and decisions.
+ An individual with a passion for leveraging Machine Learning to empower businesses with AI-driven insights and decisions.
 ---------------------------------------------------------------------------------------------------------------------------------
 
 I've been learning to code for 3 years. After switching career to tech industry, I've found my passion in Data Science and Analysis.
