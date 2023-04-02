@@ -11,7 +11,9 @@ I've been learning to code for 3 years. After switching career to tech industry,
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [eluzaineieofir@gmail.com](mailto:eluzaineieofir@gmail.com )
 *   🚀  I'm currently working on [Breast Cancer Analysis](http://github.com/EluzaiNeielofir/Breast-Cancer-Analysis)
-*   🤝  I'm open to collaborating on Data Processing | Data Analysis | Data Science Pipeline Projects### Skills 
+*   🤝  I'm open to collaborating on Data Processing | Data Analysis | Data Science Pipeline Projects 
+
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
